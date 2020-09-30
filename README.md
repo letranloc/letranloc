@@ -41,5 +41,5 @@ LESS         9 mins          █▓░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=letranloc&color=blue&label=Visitors" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=letranloc&color=blue" alt="Profile views" />
 </p>
