@@ -5,7 +5,6 @@
 	<a href="https://www.linkedin.com/in/letranloc"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://github.com/sponsors/letranloc"><img src="https://img.shields.io/badge/Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="Sponsors"></a>
   <a href="https://paypal.me/letranloc"><img src="https://img.shields.io/badge/paypal-letranloc-blue" alt="letranloc"></a>
-  <a href="https://letranloc.com"><img src="https://img.shields.io/badge/https-letranloc.com-blue" alt="letranloc"></a>
 </p>
 
 <img align="right" alt="GIF" src="https://github.com/letranloc/letranloc/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -41,3 +40,6 @@ Markdown     9 mins          █▓░░░░░░░░░░░░░░░
 LESS         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 ```
 <!--END_SECTION:waka-->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=letranloc&color=blue&label=Visitors" alt="Visitors" />
+</p>
