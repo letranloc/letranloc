@@ -21,6 +21,10 @@
 ### Languages and Tools (updating):
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/>
+  <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="dart" width="22" height="22"/>
+  <img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" alt="dart" width="22" height="22"/>
+  <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="dart" width="22" height="22"/>
+  <img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="dart" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/>
