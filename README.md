@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on something cool 😎
 - 🌱 I’m currently learning **Flutter** and **Python**
-- 💬 Ask me about anything, I am happy to help 🤗
+- 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: abc@letranloc.com
 - ⚡ Fun fact: ...
 
