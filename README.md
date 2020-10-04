@@ -32,10 +32,10 @@
   <img src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" alt="git" width="22" height="22"/>
   <img src="https://kubernetes.io/images/kubernetes-192x192.png" alt="git" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/>
+  <img src="https://www.adobe.com/content/dam/cc/us/en/creative-cloud/xd.svg" alt="postgresql" width="22" height="22"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="22" height="22"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="22" height="22"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="22" height="22"/>
-  <img src="https://www.adobe.com/content/dam/cc/us/en/creative-cloud/xd.svg" alt="postgresql" width="22" height="22"/>
 </p>
 
 <br />
