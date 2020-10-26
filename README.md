@@ -11,7 +11,7 @@
 <img align="right" alt="GIF" src="https://github.com/letranloc/letranloc/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 🔭 I’m currently working on something cool 😎
-- 🌱 I’m currently learning **Flutter** and **Python**
+- 🌱 I’m currently learning **Python**
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: abc@letranloc.com
 - ⚡ Fun fact: ...
