@@ -20,19 +20,19 @@
 
 ### Languages and Tools:
 <p align="left">
-  <img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" alt="dart" width="22" height="22"/>
+  <img src="https://raw.githubusercontent.com/php/web-php/master/images/logos/new-php-logo.png" alt="php" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/>
-  <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="dart" width="22" height="22"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="22" height="22"/>
-  <img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" alt="dart" width="22" height="22"/>
-  <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="dart" width="22" height="22"/>
-  <img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="dart" width="22" height="22"/>
+  <img src="https://nodejs.org/static/images/favicons/favicon-32x32.png" alt="nodejs" width="22" height="22"/>
+  <img src="https://www.python.org/static/apple-touch-icon-72x72-precomposed.png" alt="python" width="22" height="22"/>
+  <img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="22" height="22"/>
+  <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="react" width="22" height="22"/>
+  <img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="vuejs" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/>
-  <img src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" alt="git" width="22" height="22"/>
-  <img src="https://kubernetes.io/images/kubernetes-192x192.png" alt="git" width="22" height="22"/>
+  <img src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" alt="docker" width="22" height="22"/>
+  <img src="https://kubernetes.io/images/kubernetes-192x192.png" alt="kubernetes" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/>
-  <img src="https://www.adobe.com/content/dam/cc/us/en/creative-cloud/xd.svg" alt="postgresql" width="22" height="22"/>
+  <img src="https://www.adobe.com/content/dam/cc/us/en/creative-cloud/xd.svg" alt="xd" width="22" height="22"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="22" height="22"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="22" height="22"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="22" height="22"/>
