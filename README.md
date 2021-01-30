@@ -24,18 +24,18 @@
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/>
   <img src="https://nodejs.org/static/images/favicons/favicon-32x32.png" alt="nodejs" width="22" height="22"/>
   <img src="https://www.python.org/static/apple-touch-icon-72x72-precomposed.png" alt="python" width="22" height="22"/>
-  <img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="22" height="22"/>
-  <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="react" width="22" height="22"/>
-  <img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="vuejs" width="22" height="22"/>
+  <img src="https://www.clipartmax.com/png/middle/114-1147615_mongodb-leaf-open-source-nosql-database-startups-mongodb-logo.png" alt="mongodb" width="22" height="22"/>
+  <img src="https://www.vhv.rs/dpng/d/22-221315_react-native-logo-hd-png-download.png" alt="react" width="22" height="22"/>
+  <img src="https://e7.pngegg.com/pngimages/789/586/png-clipart-gray-and-green-v-vue-js-logo-icons-logos-emojis-tech-companies-thumbnail.png" alt="vuejs" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/>
-  <img src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" alt="docker" width="22" height="22"/>
+  <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="docker" width="22" height="22"/>
   <img src="https://kubernetes.io/images/kubernetes-192x192.png" alt="kubernetes" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/>
   <img src="https://www.adobe.com/content/dam/cc/us/en/creative-cloud/xd.svg" alt="xd" width="22" height="22"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="22" height="22"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="22" height="22"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="22" height="22"/>
+  <img src="https://cdn.imgbin.com/19/6/5/imgbin-linux-distribution-linux-kernel-tux-linux-3Bspqn5TvxZFThqGjMg0kujry.jpg" alt="linux" width="22" height="22"/>
+  <img src="https://www.clipartmax.com/png/middle/243-2432711_azure-sql-database-icon.png" alt="sql" width="22" height="22"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" alt="AWS" width="22" height="22"/>
 </p>
 
 <br />
