@@ -10,12 +10,6 @@
 
 <img align="right" alt="GIF" src="https://github.com/letranloc/letranloc/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 🔭 I’m currently working on something cool 😎
-- 🌱 I’m currently learning **Python**
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: abc@letranloc.com
-- ⚡ Fun fact: ...
-
 <br />
 
 ### Languages and Tools:
@@ -29,7 +23,7 @@
   <img src="https://e7.pngegg.com/pngimages/789/586/png-clipart-gray-and-green-v-vue-js-logo-icons-logos-emojis-tech-companies-thumbnail.png" alt="vuejs" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/>
-  <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="docker" width="22" height="22"/>
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="docker" width="22" height="22"/>
   <img src="https://kubernetes.io/images/kubernetes-192x192.png" alt="kubernetes" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/>
   <img src="https://www.adobe.com/content/dam/cc/us/en/creative-cloud/xd.svg" alt="xd" width="22" height="22"/>
@@ -39,6 +33,13 @@
 </p>
 
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 
 📊 **WakaTime Week Stats:**
 <!--START_SECTION:waka-->
