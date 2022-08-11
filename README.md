@@ -8,7 +8,15 @@
   <a href="https://paypal.me/letranloc"><img src="https://img.shields.io/badge/paypal-letranloc-blue" alt="letranloc"></a>
 </p>
 
-<img align="left" alt="GIF" src="https://github.com/letranloc/letranloc/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/letranloc/letranloc/blob/master/code.gif?raw=true" width="500" height="320" />
+
+- 🔭 I’m currently working on something cool 😎
+- 🌱 I’m currently learning **Python**
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: abc@letranloc.com
+- ⚡ Fun fact: ...
+
+<br />
 
 ### Languages and Tools:
 <p align="left">
@@ -30,16 +38,18 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" alt="AWS" width="22" height="22"/>
 </p>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<br />
 
+📊 **WakaTime Week Stats:**
+<!--START_SECTION:waka-->
+```text
+JavaScript   14 hrs 37 mins  ███████████████▓░░░░░░░░░   62.49 % 
+Pug          4 hrs 42 mins   █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+VimL         1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+JSON         1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Dart         35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+```
+<!--END_SECTION:waka-->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=letranloc&color=blue" alt="Profile views" />
 </p>
