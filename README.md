@@ -4,8 +4,6 @@
 	<a href="https://twitter.com/letranloc"><img src="https://img.shields.io/twitter/follow/letranloc?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://facebook.com/letranloc"><img src="https://img.shields.io/badge/Facebook-215-white?logo=facebook&style=social" alt="Facebook"></a>
 	<a href="https://www.linkedin.com/in/letranloc"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-	<a href="https://github.com/sponsors/letranloc"><img src="https://img.shields.io/badge/Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="Sponsors"></a>
-  <a href="https://paypal.me/letranloc"><img src="https://img.shields.io/badge/paypal-letranloc-blue" alt="letranloc"></a>
 </p>
 
 <img align="right" alt="GIF" src="https://github.com/letranloc/letranloc/blob/master/code.gif?raw=true" width="500" height="320" />
