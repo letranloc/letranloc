@@ -41,7 +41,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+PHP                              ████████████████████████░   96.47 %
+Blade Template                   █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
 ```
 
 <!--END_SECTION:waka-->
